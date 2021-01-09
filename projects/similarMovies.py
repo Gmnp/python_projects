@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  8 22:57:36 2021
+"""This file is a small project that returns clusters and plots a
+dendogram of a small subset of movies from IMDb. It mainly uses the
+Natural Language Toolkit and TfidfVectorizer Data from the homonimous
+Datacamp project.
 
-@author: gianmaria
 """
 
 import numpy as np
